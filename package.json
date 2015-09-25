@@ -1,0 +1,30 @@
+{
+  "name": "finger-love",
+  "version": "0.0.1",
+  "description": "Shows some finger love",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin":{
+    "finger-love": "bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beardyman/finger-love.git"
+  },
+  "keywords": [
+    "finger",
+    "fingers",
+    "love",
+    "finger",
+    "love",
+    "finger-love"
+  ],
+  "author": "Beardyman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beardyman/finger-love/issues"
+  },
+  "homepage": "https://github.com/beardyman/finger-love#readme"
+}
