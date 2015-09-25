@@ -1,3 +1,4 @@
-/**
- * Created by jnornhold on 9/25/15.
- */
+
+var fingerLove = require('../');
+
+console.log(fingerLove.love);

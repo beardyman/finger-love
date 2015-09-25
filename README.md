@@ -1,4 +1,18 @@
 # finger-love
 
+## Install
+```
+npm install -g finger-love
+```
 
-Not sure what this is going to be yet, but its going to be awesome.
+## Run in cli
+```
+finger-love
+```
+
+## Use it
+```
+var fingerLove = require('finger-love');
+
+console.log(fingerLove.love);
+```
