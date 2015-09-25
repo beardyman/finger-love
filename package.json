@@ -1,6 +1,6 @@
 {
   "name": "finger-love",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Shows some finger love",
   "main": "index.js",
   "scripts": {
